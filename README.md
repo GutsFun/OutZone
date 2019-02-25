@@ -1,6 +1,6 @@
 # OutZone
 
-OutZone is a small website dedicate to a Toaplan arcade game released in 1990. Source code is under Vue.js and Less files. A good start for those who whant to learn how to develop new simple architectured web site.
+OutZone is a small website dedicate to a Toaplan arcade game released in 1990. Source code is under Vue.js and Less files. A good start for those who want to learn how to develop new simple architectured web site.
 
 ## Project setup
 ```
