@@ -81,7 +81,7 @@
       </div>
       <div class="screenshot">
         <p><img src="../assets/screenshots/ending_jap_2.png" /></p>
-        <span>Vous allez essayer d'obtenir le meilleur score et de dépasser vos limites. Rejeté.</span>
+        <span>Vous allez essayer d'obtenir le meilleur score et de dépasser vos limites. C'est tout.</span>
       </div>
     </div>
     <div class="flex-row">

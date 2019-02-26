@@ -47,7 +47,7 @@
     </dl>
     <h3 class="pipiru">Faire un lien ?</h3>
     <div class="flex-row">
-      <p class="banner"><a href="http://outzone.gutsfun.com"><img src="../assets/banner/outzonefansite.gif" /></a></p>
+      <p class="banner"><a href="http://outzone.gutsfun.com"><img src="/static/banner/outzonefansite.gif" /></a></p>
       <p>Un partenariat vous intéresse ? N'hésitez pas à me <a href="mailto:guts@gutsfun.com">contacter</a> pour mettre tout ça en forme.</p>
     </div>
   </div>
