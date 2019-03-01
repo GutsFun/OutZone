@@ -23,7 +23,7 @@
         <span>Amenez le devant le boss et celui-ci s'auto détruit pour laisser un bonus de <b>40.000 points</b>.</span>
       </div>
     </div>
-    <p>Mais au fait ? Qui est donc <span>PIPIRU</span> ? En réalité, ce drôle de petit bonhomme semble être la mascotte de la société. On peut le retrouver dans différents jeux de la firme dont notamment <span>Zero Wing</span>, connu aussi pour l'hilarante traduction anglaise de l'introduction dans un "engrish" particulièrement mauvais : "<a href="http://www.urgo.org/funny/" target="_new">All your base are belong to us</a>", mais aussi sur la notice de <span>Truxton II</span>.</p>
+    <p>Mais au fait ? Qui est donc <span>PIPIRU</span> ? En réalité, ce drôle de petit bonhomme semble être la mascotte de la société. On peut le retrouver dans différents jeux de la firme dont notamment <span>Zero Wing</span>, connu aussi pour l'hilarante traduction anglaise de l'introduction dans un "engrish" particulièrement mauvais : "<a href="http://www.allyourbasearebelongtous.com/" target="_new">All your base are belong to us</a>", mais aussi sur la notice de <span>Truxton II</span>.</p>
     <div class="screenshot">
       <p><img src="../assets/screenshots/zerowing_st4.gif" title="Fin du Level 4 de Zero Wing" /></p>
       <span>Cet énorme Pipiru apparaît à la fin du niveau 4 de <b>Zero Wing</b> dans le cas ou vous réussissez à le retrouver à l'aide du faisceau tracteur.</span>
@@ -40,17 +40,51 @@
         <span>Une fois les arbustes déclencheurs détruis, l'escadron se met tout de suite en action.</span>
       </div>
     </div>
-    <div class="flex-row">
-      <div class="flex-col-1">
-        <h3 class="zerowing">Zero Wing, encrore lui ! *</h3>
-        <p>Pour réussir à faire apparaître le vaisseau de <span>Zero Wing</span> c'est assez compliqué. Il faut d'abord prendre une option <img src="../assets/items/change.gif" class="icon" /> entre le départ du niveau et l'endroit où est sensé apparaître le <span>ZIG-01</span> mais surtout que le score soit un multiple de 8 et ne plus prendre d'autres <img src="../assets/items/change.gif" class="icon" />.</p>
-        <p>Certes c'est extrêmement difficile mais si vous réussissez, n'oubliez pas de lui tirer dessus le plus tard possible afin d'obtenir autant de bornes à <span>5.000 points</span> qu'il y en a à l'écran.</p>
-	      <p>J'ai recensé trois <span>ZIG-01</span>. Un au niveau 2 (photo ci-contre), un au niveau 3 et un autre au niveau 4. Reste à savoir si les autres niveaux possèdent aussi leur <span>ZIG-01</span>...</p>
-	      <p>EDIT : Un <span>ZIG-01</span> a été recensé dans le niveau 6. Merci à <span>Colyoko</span> pour l'info.</p>
+    <h3 class="zerowing">Zero Wing, encrore lui ! *</h3>
+    <p>Je n'ai pas réussi a découvrir la méthode permettant à coup sûr de déclencher le passage du petit vaisseau de <span>Zero Wing</span>. Plusieurs théories ont fusé sur la toile mais aucune ne semble fonctionner à 100% :</p>
+    <ul>
+      <li>Prendre une option <img src="../assets/items/change.gif" class="icon" /> entre le départ du niveau et l'endroit où est sensé apparaître le <span>ZIG-01</span> mais surtout que le score soit un multiple de 8 et ne plus prendre d'autres <img src="../assets/items/change.gif" class="icon" />.</li>
+      <li>Ne pas perdre de vie tout en allant le plus vite possible.</li>
+      <li>Lié au score lors d'un passage de checkpoint.</li>
+    </ul>
+    <p>Une chose est sûr, ils apparaîssent toujours au même endroit. En tout cas si vous réussissez à le déclencher, n'oubliez pas de lui tirer dessus le plus tard possible afin d'obtenir autant de bornes à <span>5.000 points</span> qu'il y en a à l'écran.</p>
+    <p>Merci à <span>Colyoko</span> et <span>Caz</span> de m'avoir aidé à recenser tous les <span>ZIG-01</span> du jeu. N'hésitez pas à me <a href="mailto:guts@gutsfun.com">contacter</a> si vous en découvrez d'autres.</p>
+    <div class="flex-row flex-wrap">
+      <div class="screenshot">
+        <p><img src="../assets/screenshots/zig02_1.gif" title="ZIG-01 du niveau 2" /></p>
+        <span>Au départ de la zone à trou avant le boss du niveau 2.</span>
       </div>
       <div class="screenshot">
-        <p><img src="../assets/screenshots/zerowing.gif" title="La ligne de 5.000 points" /></p>
-        <span>Une ligne de points à ne pas manquer.</span>
+        <p><img src="../assets/screenshots/zig03_1.gif" title="ZIG-01 du niveau 3" /></p>
+        <span>Au milieu du niveau 3.</span>
+      </div>
+      <div class="screenshot">
+        <p><img src="../assets/screenshots/zig04_1.gif" title="ZIG-01 du niveau 4" /></p>
+        <span>Au début du pont infernal du niveau 4.</span>
+      </div>
+      <div class="screenshot">
+        <p><img src="../assets/screenshots/zig05_1.gif" title="ZIG-01 du niveau 5" /></p>
+        <span>Au tout début du niveau 5.</span>
+      </div>
+      <div class="screenshot">
+        <p><img src="../assets/screenshots/zig05_2.gif" title="2ème ZIG-01 du niveau 5" /></p>
+        <span>Peu avant la deuxième partie du niveau 5 avec ses plateformes démoniaques.</span>
+      </div>
+      <div class="screenshot">
+        <p><img src="../assets/screenshots/zig06_1.gif" title="ZIG-01 du niveau 6" /></p>
+        <span>Au milieu du niveau 6 après la zone à tourelles rétractables.</span>
+      </div>
+      <div class="screenshot">
+        <p><img src="../assets/screenshots/zig06_2.gif" title="2ème ZIG-01 du niveau 6" /></p>
+        <span>Durant la dernière partie du niveau 6 avec ses décors destructibles.</span>
+      </div>
+      <div class="screenshot">
+        <p><img src="../assets/screenshots/zig07_1.gif" title="ZIG-01 du niveau 7" /></p>
+        <span>Au début du niveau 7 juste avant les usines de construction.</span>
+      </div>
+      <div class="screenshot">
+        <p><img src="../assets/screenshots/zig07_2.gif" title="2ème ZIG-01 du niveau 7" /></p>
+        <span>Au milieu du niveau 7 avec ses cyborgs en stases.</span>
       </div>
     </div>
     <div class="flex-row flex-wrap">
