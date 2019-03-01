@@ -98,8 +98,18 @@ blockquote {
 }
 
 .padding-wrapper {
-  padding: 15px 100px;
+  padding: 15px 14%;
   font-size: 0.8em;
+}
+
+@media screen and (max-width:500px) {
+  .bg-wrapper {
+    width: 100%;
+  }
+
+  .padding-wrapper {
+    padding: 15px 5%;
+  }
 }
 
 a {
@@ -220,6 +230,12 @@ footer {
   .justify-content(space-around);
 }
 
+@media screen and (max-width:500px) {
+  .flex-row-reverse {
+    .flex-direction();
+  }
+}
+
 .flex-wrap {
   .flex-wrap(wrap);
 }
@@ -240,6 +256,7 @@ footer {
 
   img {
     border: 1px solid #993300;
+    width: 90%;
   }
 
   p {

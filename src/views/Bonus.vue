@@ -125,7 +125,7 @@
         <span>...pour un bonus pas si extraordinaire.</span>
       </div>
     </div>
-    <div class="flex-row">
+    <div class="flex-row flex-wrap">
       <div class="flex-col-1">
         <h3 class="tatsujin">Le vaisseau de support Truxton *</h3>
         <p>Vous pouvez recevoir le vaisseau de <span>Truxton</span> (Tatsujin en japonais) en support aérien au début du niveau 4. Il vient se positionner derrière le joueur qui a réussi la condition nécessaire au déploiement du vaisseau et il possède le 3 ways de niveau 1 comme attaque. Il possède aussi l'avantage d'être indestructible mais prendra la fuite avant le Boss.</p>
@@ -136,7 +136,7 @@
         <span>Pas très efficace mais très sympathique.</span>
       </div>
     </div>
-    <div class="flex-row">
+    <div class="flex-row flex-wrap">
       <div class="flex-col-1">
         <h3>Un bonus à deux joueurs **</h3>
         <p>Au début du niveau 3 (celui de la lave), il y a une sorte de petite péninsule avec une caisse d'énergie sur la gauche juste avant un étroit passage de terre. L'un des joueurs peut traverser la lave sur un pont invisible qui donne plein de bonus de <span>5.000 points</span> tandis que l'autre prend le chemin normal.</p>
@@ -159,21 +159,22 @@
 @import url(../mixins/flexbox.less);
 
 dl {
-  .flex-direction(row);
+  .flex-direction();
+  .flex-wrap(wrap);
   margin-left: 0;
-  width: auto;
+  width: 240px;
 }
 
 dt {
-  .flex(0 0 40px);
+  .flex(1 0 30px);
   display: block;
   text-align: right;
   color: #FFFFFF;
-  padding-right: 10px
+  padding-right: 10px;
 }
 
 dd {
-  .flex(1 0 auto);
+  .flex(2 0 200px);
   text-align: left;
   color: #00FF00;
 }

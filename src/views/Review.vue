@@ -5,7 +5,7 @@
     <h3>Historique (léger) de Toaplan</h3>
     <p><span>Toaplan</span> a tout d'abord réalisé un certain nombre de jeux pour	le compte de <a href="http://www.taito.co.jp" target="_new">Taito</a> vers le milieu des années 80. Le premier jeu à vraiment avoir été estampillé du fameux logo est <b>Hellfire</b>. S'ensuivit une vague de jeu d'une remarquable qualité. Mais l'année 1994 sonnera le glas de cette compagnie qui fera banqueroute. Heureusement, quelques membres de <span>Toaplan</span> formeront une nouvelle société nommée <a href="http://www.cave.co.jp" target="_new">Cave</a> qui réalisera et réalise encore maintenant en grande partie des shoot them up de légende.</p>
     <p>Pour plus de détails sur la vie de cette société, je vous invite à jeter un oeil sur le <a href="http://www.toaplan.org/" target="_new">site non-officiel</a> réalisé par <b>Carl-Henrik Skårstedt</b>, co-créateur de l'émulateur Shark.</p>
-    <div class="flex-row">
+    <div class="flex-row flex-wrap">
       <div class="screenshot">
           <p><img src="../assets/screenshots/intro_jap.gif" title="Introduction japonaise" /></p>
           <span>Introduction japonaise qui a disparu dans son importation américaine par Romstar.</span>
@@ -45,7 +45,7 @@
     <h3>Review</h3>
     <p>Sortie en 1990 dans les salles obscures, <span>OutZone</span> est une véritable claque visuelle pour l'époque. Les graphismes sont d'une très grandes finesses mêlant décors urbains glauques, jungles hostiles ou hangars désaffectés avec des sprites superbement designés par l'équipe de <span>Toaplan</span>. Les décors recèlent de détails et d'animations, et les boss prennent une taille	énorme à l'écran laissant en général peu d'espace à votre Cyborg Mercenaire pour évoluer autour. Cyborg ? Et oui, <span>OutZone</span> est un Commando Like, mais le gameplay se rapproche tellement d'un shmup (shoot them up) qu'on ne peut s'empêcher de penser à <b>Tatsujin</b>. Les développeurs y ont même fait un clin d'oeil, à vous de le découvrir.</p>
     <p>Votre cyborg dispose d'un tir multidirectionnel qu'il peut transformer en 3 ways et inversement en se procurant une option <img src="../assets/items/change.gif" title="Change" class="icon">. Certains ennemis laisseront divers bonus de couleurs vous donnant la possibilité d'opter pour un lance flamme hyper destructeur, un bouclier, un one-up ou encore la <router-link to="/items">Super Ball</router-link>, une sorte de yo-yo tournant autour du héros au pouvoir terriblement dévastateur.</p>
-    <div class="flex-row">
+    <div class="flex-row flex-wrap">
       <div class="screenshot">
         <p><img src="../assets/screenshots/level03_4.gif" title="Couloirs du niveau 3" /></p>
         <span>Les tirs sournois ne manquent pas dans ce genre de décors</span>
@@ -61,7 +61,7 @@
     <h3>Portage</h3>
     <p>Malgré un succès mérité, <b>OutZone</b> n'a jamais été porté sur une console de salon. Une défunte société coréenne, <span>Techron System</span>, a réalisé pour le marché des mobiles coréen une adaptation d'<span>OutZone</span>. Le jeu a également été porté sur iOS de manière assez médiocre sous la forme de deux titres. Le premier est une émulation directe d'<span>OutZone</span> avec une tentative de mapping des touches via l'écran tactile assez catastrophique. Le deuxième, renommé <span>OutZone Reloaded</span>, a subit un lifting visuel du plus mauvais effet sans parler des contrôles tactiles tout aussi catastrophique. A quand un portage arcade perfect de ce titre ?</p>
     <blockquote>Images de la version mobile développé par <span>Techron System</span></blockquote>
-    <div class="flex-row centered">
+    <div class="flex-row flex-wrap centered">
       <div class="screenshot small">
         <img src="../assets/screenshots/snap_outzone01.gif" title="ScreenShot 1" />
       </div>
@@ -84,7 +84,7 @@
         <span>Vous allez essayer d'obtenir le meilleur score et de dépasser vos limites. C'est tout.</span>
       </div>
     </div>
-    <div class="flex-row">
+    <div class="flex-row flex-wrap">
       <div class="flex-col-1">
         <p>Dans l'excellent <span>Batsugun</span>, l'un des dernier jeu produit par <span>Toaplan</span>, on peut aperçevoir dans le générique de fin de <i>Jeeno</i> une transformation qui ne peut que vous rappeler quelqu'un.</p>
         <p>Même si 4 ans séparent ces deux jeux ... entre le texte, l'épaulette et l'oeillère, aucun doute possible.</p>
