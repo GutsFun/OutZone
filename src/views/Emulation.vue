@@ -14,7 +14,7 @@
     <h3>Quelles sont les différences entre les sets d'OutZone ??</h3>
     <p>Depuis la version 0.149u1 de MAME, la nomination des Set d'OutZone a changé. La communauté avait pour habitude d'utiliser le Set 2 (maintenant défini comme <i>Old set</i>) comme version de référence pour jouer et le Set 1 (<i>Harder set</i> ??) était la rom d'origine. On voit même apparaître un 5<sup>ème</sup> Set plus récent que le Set 3 devenu le <i>Oldest set</i>.</p>
     <p>Pour des raisons d'hygiène mentale nous continurons à utiliser l'ancienne convention pour la suite de l'article.</p>
-    <div class="flex-row">
+    <div class="flex-row flex-wrap">
       <div class="flex-col-1">
         <p>Le Set 2 apporte quelques améliorations ou modifications, entendez le comme vous voudrez. La première visible est probablement au niveau du gameplay qui a été revu à la hausse. Certaines vagues ennemis ont disparu laissant place à de nouveaux adversaires. Ensuite, des bonus de points plus importants et des supports aériens en fonction de votre score sont matérialisés sous la forme d'un escadron de biplans tiré de <span>Flying Shark</span> ou du vaisseau de <span>Truxton</span> (Tatsujin en japonais). Enfin, l'agencement des musiques a aussi été modifié afin de rajouter un nouveau thème pour le niveau 7, modifier celle du niveau 4 qui reprenait celui du premier et aussi donner un autre rythme au jeu. N'hésitez pas à les <router-link to="/medias">écouter</router-link>, elles valent tout de même le détour pour l'époque.</p>
       </div>
@@ -54,7 +54,7 @@
         <span>... remplacé par un tank à la gachette facile</span>
       </div>
     </div>
-    <div class="flex-row">
+    <div class="flex-row flex-wrap">
       <div class="flex-col-1">
         <h3>Replay et scoring</h3>
         <p>Pour ceux que ça intéresse, sachez que vous avez la possibilité d'enregistrer vos parties et d'en faire profiter les autres sur des sites spécialisés. Des règles à respecter sont bien sûr de rigueur pour pouvoir envoyer vos scores. Je vous invite à vous inscrire sur les sites de <a href="http://marp.retrogames.com" target="_new">MARP</a> et <a href="http://hiscores.shmup.com/" target="_new">Shmup HISCORES</a> afin de révéler le grand champion que vous êtes.</p>

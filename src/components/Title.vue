@@ -60,4 +60,15 @@ export default class Title extends Vue {
             top: 96px;
         }
     }
+
+    @media screen and (max-width:500px) {
+        .title {
+            background-position-x: -120px;
+            width: 100%;
+        }
+
+        h1 {
+            position: relative;
+        }
+    }
 </style>

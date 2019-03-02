@@ -10,8 +10,8 @@
           <router-view />
         </section>
         <footer>
-          <p><img src="./assets/ui/toaplan_logo.gif" /></p>
-          <p><img src="./assets/ui/copyright.gif" /></p>
+          <p class="logo"><img src="./assets/ui/toaplan_logo.gif" /></p>
+          <p class="copyright"><img src="./assets/ui/copyright.gif" /></p>
           <p class="small">Site réalisé par <a href="mailto:guts@gutsfun.com">Guts</a>, &copy;2004-{{currentYear}}</p>
           <p><a href="https://www.vuejs.org/" target="_new"><img src="./assets/ui/vuejs.png" title="Développé sous Vue.js"/></a></p>
         </footer>
@@ -100,16 +100,6 @@ blockquote {
 .padding-wrapper {
   padding: 15px 14%;
   font-size: 0.8em;
-}
-
-@media screen and (max-width:500px) {
-  .bg-wrapper {
-    width: 100%;
-  }
-
-  .padding-wrapper {
-    padding: 15px 5%;
-  }
 }
 
 a {
@@ -230,12 +220,6 @@ footer {
   .justify-content(space-around);
 }
 
-@media screen and (max-width:500px) {
-  .flex-row-reverse {
-    .flex-direction();
-  }
-}
-
 .flex-wrap {
   .flex-wrap(wrap);
 }
@@ -255,9 +239,10 @@ footer {
   }
 
   img {
-    border: 1px solid #993300;
-    width: 90%;
+    border: 1px solid #993300;    
   }
+
+  width: 90%;
 
   p {
     margin: 0px;
@@ -281,6 +266,28 @@ footer {
   span {
     color: #FFFFFF;
     font-size: 0.85em;
+  }
+}
+
+@media screen and (max-width:500px) {
+  .bg-wrapper {
+    width: 100%;
+  }
+
+  .padding-wrapper {
+    padding: 15px 5%;
+  }
+
+  .flex-row-reverse {
+    .flex-direction();
+  }
+
+  .screenshot img {
+    width: 90%;
+  }
+
+  footer p.copyright>img {
+    width: 100%;
   }
 }
 </style>
