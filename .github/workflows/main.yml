@@ -1,11 +1,12 @@
 name: 🚀 Deploy website
 
-on:
-  workflow_dispatch:
+on:  
   push:
     branches: [ $default-branch ]
   pull_request:
+    types: [opened, synchronize, reopened, closed]
     branches: [ $default-branch ]
+  workflow_dispatch:
 
 jobs:
   web-deploy:
