@@ -35,4 +35,5 @@ jobs:
         local-dir: ./dist/
         exclude: img/**
           - static/**
+          - js/*.map
 
