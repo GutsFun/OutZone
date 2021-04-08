@@ -1,18 +1,28 @@
-on: [push, pull_request]
-  branches:
-    - master
 name: 🚀 Deploy website
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
 jobs:
   web-deploy:
-    name: Deploy
-    runs-on: ubuntu-latest
+
+    runs-on: windows-latest
+
+    strategy:
+      matrix:
+        node-version: [10.x, 12.x, 14.x, 15.x]
 
     steps:
     - name: Get latest code
       uses: actions/checkout@master
 
-    - name: Use lastest Node.js
-      uses: actions/setup-node@master
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v1
+      with:
+        node-version: ${{ matrix.node-version }}
 
     - name: Build Project
       run: |
