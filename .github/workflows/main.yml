@@ -1,6 +1,7 @@
 name: 🚀 Deploy website
 
 on:
+  workflow_dispatch:
   push:
     branches: [ master ]
   pull_request:
@@ -38,3 +39,4 @@ jobs:
         local-dir: ./dist
         exclude: img/**
           - static/**
+
