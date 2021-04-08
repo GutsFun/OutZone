@@ -32,7 +32,7 @@ jobs:
         server: ftp.gutsfun.com
         username: ${{ secrets.GUTSFUN_FTP_USER }}
         password: ${{ secrets.GUTSFUN_FTP_PASSWORD }}
-        local-dir: ./dist
+        local-dir: ./dist/
         exclude: img/**
           - static/**
 
