@@ -37,6 +37,6 @@ jobs:
         username: ${{ secrets.GUTSFUN_FTP_USER }}
         password: ${{ secrets.GUTSFUN_FTP_PASSWORD }}
         local-dir: ./dist
-        exclude:
-          - img/**
+        exclude: img/**
           - static/**
+
