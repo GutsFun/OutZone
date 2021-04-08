@@ -3,27 +3,23 @@ name: 🚀 Deploy website
 on:
   workflow_dispatch:
   push:
-    branches: [ master ]
+    branches: [ $default-branch ]
   pull_request:
-    branches: [ master ]
+    branches: [ $default-branch ]
 
 jobs:
   web-deploy:
 
     runs-on: windows-latest
 
-    strategy:
-      matrix:
-        node-version: [10.x, 12.x, 14.x, 15.x]
-
     steps:
     - name: Get latest code
       uses: actions/checkout@master
 
-    - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v1
+    - name: Use Node.js
+      uses: actions/setup-node@v2
       with:
-        node-version: ${{ matrix.node-version }}
+        node-version: '12.x'
 
     - name: Build Project
       run: |
