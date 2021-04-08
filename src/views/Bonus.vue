@@ -12,7 +12,7 @@
       </div>
       <div class="screenshot">
         <p><img src="../assets/screenshots/pipiru02.gif" title="Hop !" /></p>
-        <span>Au score très exact de <b>34.600 points</b> (ça dépends aussi comment vous avez réalisé votre run), Pipiru surgit de sa tanière pour se transformer en ...</span>
+        <span>Au bout d'un certain nombre de tirs, Pipiru surgit de sa tanière pour se transformer en ...</span>
       </div>
       <div class="screenshot">
         <p><img src="../assets/screenshots/pipiru03.gif" title="PIPIRU !" /></p>
@@ -138,8 +138,9 @@
     </div>
     <div class="flex-row flex-wrap">
       <div class="flex-col-1">
-        <h3>Un bonus à deux joueurs **</h3>
-        <p>Au début du niveau 3 (celui de la lave), il y a une sorte de petite péninsule avec une caisse d'énergie sur la gauche juste avant un étroit passage de terre. L'un des joueurs peut traverser la lave sur un pont invisible qui donne plein de bonus de <span>5.000 points</span> tandis que l'autre prend le chemin normal.</p>
+        <h3>Un pont bien caché</h3>
+        <p>Au début du niveau 3 (celui de la lave), il y a une sorte de petite péninsule avec une caisse d'énergie sur la gauche juste avant un étroit passage de terre. Si vous êtes à deux, l'un des joueurs peut traverser la lave sur un pont invisible qui donne quatre bonus de <span>5.000 points</span> tandis que l'autre prend le chemin normal.</p>
+        <p>Alors que le pont apparaît très facilement à deux joueurs, celui-ci est beaucoup plus difficile à activer quand on est seul. Il faut s'approcher très doucement du bord droit et attendre que le pont s'affiche sinon c'est la chute.</p>
       </div>
       <div class="screenshot">
         <p><img src="../assets/screenshots/level03_0.gif" title="Un pont invisible" /></p>

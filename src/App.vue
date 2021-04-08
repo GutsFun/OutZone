@@ -1,5 +1,5 @@
 <template>
-  <div id="app" :class="getRandomizeBg()">
+  <div id="app" :class="['bg', getRandomizeBg()]">
     <div class="bg-wrapper">
       <div class="padding-wrapper">
         <header>
@@ -76,17 +76,12 @@ blockquote {
   transition: background-image 0.2s ease-in-out;
 }
 
-.bg0 {
-  background-image: url(./assets/ui/patern_fer.gif);
+.bg {
   background-attachment: fixed;
-}
-.bg1 {
-  background-image: url(./assets/ui/patern_sol.gif);
-  background-attachment: fixed;
-}
-.bg2 {
-  background-image: url(./assets/ui/patern_terre.gif);
-  background-attachment: fixed;
+
+  &0 { background-image: url(./assets/ui/patern_fer.gif); }
+  &1 { background-image: url(./assets/ui/patern_sol.gif); }
+  &2 { background-image: url(./assets/ui/patern_terre.gif); }
 }
 
 .bg-wrapper {
@@ -239,7 +234,7 @@ footer {
   }
 
   img {
-    border: 1px solid #993300;    
+    border: 1px solid #993300;
   }
 
   width: 90%;
