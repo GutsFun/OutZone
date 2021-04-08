@@ -138,7 +138,7 @@
     </div>
     <div class="flex-row flex-wrap">
       <div class="flex-col-1">
-        <h3>Un pont bien caché</h3>
+        <h3>Un pont bien caché *</h3>
         <p>Au début du niveau 3 (celui de la lave), il y a une sorte de petite péninsule avec une caisse d'énergie sur la gauche juste avant un étroit passage de terre. Si vous êtes à deux, l'un des joueurs peut traverser la lave sur un pont invisible qui donne quatre bonus de <span>5.000 points</span> tandis que l'autre prend le chemin normal.</p>
         <p>Alors que le pont apparaît très facilement à deux joueurs, celui-ci est beaucoup plus difficile à activer quand on est seul. Il faut s'approcher très doucement du bord droit et attendre que le pont s'affiche sinon c'est la chute.</p>
       </div>
