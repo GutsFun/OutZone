@@ -1,4 +1,4 @@
-on: [push, merge]
+on: [push, pull_request]
   branches:
     - master
 name: 🚀 Deploy website
