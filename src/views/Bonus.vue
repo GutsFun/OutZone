@@ -43,9 +43,10 @@
     <h3 class="zerowing">Zero Wing, encrore lui ! *</h3>
     <p>Je n'ai pas réussi a découvrir la méthode permettant à coup sûr de déclencher le passage du petit vaisseau de <span>Zero Wing</span>. Plusieurs théories ont fusé sur la toile mais aucune ne semble fonctionner à 100% :</p>
     <ul>
-      <li>Prendre une option <img src="../assets/items/change.gif" class="icon" /> entre le départ du niveau et l'endroit où est sensé apparaître le <span>ZIG-01</span> mais surtout que le score soit un multiple de 8 et ne plus prendre d'autres <img src="../assets/items/change.gif" class="icon" />.</li>
+      <li>Avoir pris un multiple de 8 options <img src="../assets/items/change.gif" class="icon" /> (8, 16, 32 ...) entre votre point de départ et l'endroit où est sensé apparaître le <span>ZIG-01</span>.</li>
       <li>Ne pas perdre de vie tout en allant le plus vite possible.</li>
       <li>Lié au score lors d'un passage de checkpoint.</li>
+      <li>Tous ces éléments en même temps ?</li>
     </ul>
     <p>Une chose est sûr, ils apparaîssent toujours au même endroit. En tout cas si vous réussissez à le déclencher, n'oubliez pas de lui tirer dessus le plus tard possible afin d'obtenir autant de bornes à <span>5.000 points</span> qu'il y en a à l'écran.</p>
     <p>Merci à <span>Colyoko</span> et <span>Caz</span> de m'avoir aidé à recenser tous les <span>ZIG-01</span> du jeu. N'hésitez pas à me <a href="mailto:guts@gutsfun.com">contacter</a> si vous en découvrez d'autres.</p>
